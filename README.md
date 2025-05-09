@@ -5,7 +5,7 @@ A simple and user-friendly web application to track your job applications. Add, 
 ## Screenshots
 
 ![Screenshot 1](./Screenshots/2.png)  
-![Screenshot 2](./Screenshots/1.png)
+![Screenshot 2](./Screenshots/3.png)
 
 ---
 
